@@ -1,0 +1,3 @@
+el usuario con el que hay que registrarse es:
+
+admin@gmail.com
